@@ -23,6 +23,6 @@ public class Application {
     private LocalDateTime submissionDateTime; // дата подачи
     @Enumerated(EnumType.STRING)
     private Status status; // статус заявки
-    private String documentUrlInMinio; // ссылка на заявку в minIo
+    private String documentUrlInMinio; // ссылка на документ в minIo
     private String comment; //коммент к заявке (оставляет подающий заявку)
 }
