@@ -1,8 +1,8 @@
 package com.example.document_flow.entity.enums;
 
 public enum Status {
-    PENDING,
-    IN_PROGRESS,
-    REJECTED,
-    READY
+    PENDING, // ожидается
+    IN_PROGRESS, // в работе
+    REJECTED, // отклонено
+    READY // готово
 }
