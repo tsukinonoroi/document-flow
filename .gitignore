@@ -7,6 +7,7 @@ target/
 docker-compose.yml
 
 application-secret.yml
+
 ### STS ###
 .apt_generated
 .classpath
