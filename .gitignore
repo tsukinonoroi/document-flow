@@ -4,9 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+application-secret.yml
+
 docker-compose.yml
 
-application-secret.yml
 
 ### STS ###
 .apt_generated
